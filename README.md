@@ -25,7 +25,7 @@ Check out the live demo of the application [here](https://food-ordering-app-one-
 ![Home Page](screenshots/app1.png)
 
 ### Restaurant Menu
-![Restaurant Menu](screenshots/app2.png)
+![Restaurant Menu](screenshots/app3.png)
 
 
 ## Usage
