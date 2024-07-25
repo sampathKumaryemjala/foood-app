@@ -15,11 +15,11 @@ const Footer = () => {
   return (
     <div className="Footer tw-z-50 dark:tw-bg-[#832a2afa] dark:tw-text-zinc-100">
       <div className="copy">
-        <i className="ri-copyright-line dark:tw-text-zinc-100"></i>Dhruv Kandpal | All Rights Reserved
+        <i className="ri-copyright-line dark:tw-text-zinc-100"></i>Sampath Yemjala | All Rights Reserved
       </div>
       <div className="icons ">
         <Link
-          to="https://www.linkedin.com/in/dhruv-kandpal-1b231a249/"
+          to="https://www.linkedin.com/in/sampath-yemjala-%F0%9F%9A%80-666b1a1a4/"
           className="footer-icon-link" aria-label="Linking LinkedIn Profile"
         >
           <i className="ri-linkedin-box-fill dark:tw-text-zinc-100"></i>
