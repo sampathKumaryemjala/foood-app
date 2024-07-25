@@ -22,7 +22,7 @@ Check out the live demo of the application [here](https://food-ordering-app-one-
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/app1.png)
+![Home Page](screenshots/app4.png)
 
 ### Restaurant Menu
 ![Restaurant Menu](screenshots/app3.png)
